@@ -8,3 +8,5 @@ class Rectangle:
 new=Rectangle(12,10)
 print(new.base)
 print(new.height)      
+new.base = 15
+print(new.base)
